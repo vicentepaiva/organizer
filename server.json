@@ -1,0 +1,110 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "casa dos colchoes",
+      "createdAt": "2022-11-23T19:21:55.096Z",
+      "type": "income",
+      "category": "40251",
+      "price": 14000,
+      "observation": "Desconto 8%, pgto Blu, frete cif"
+    },
+    {
+      "id": 2,
+      "description": "colchao e tudo",
+      "createdAt": "2022-11-23T19:22:05.096Z",
+      "type": "income",
+      "category": "40254",
+      "price": 14000,
+      "observation": "Desconto 3%, pgto Blu, frete cif"
+    },
+    {
+      "id": 3,
+      "description": "colchao ",
+      "createdAt": "2022-11-24T19:23:05.096Z",
+      "type": "income",
+      "category": "40254",
+      "price": 11000,
+      "observation": "Desconto 3%, pgto Blu, frete cif"
+    },
+    {
+      "description": "colchao 2",
+      "createdAt": "2022-11-27T23:58:13.766Z",
+      "category": "40433",
+      "price": 1500,
+      "observation": "5%",
+      "type": "income",
+      "id": 4
+    },
+    {
+      "description": "adsadas",
+      "category": "dasdasda",
+      "price": 1000,
+      "observation": "5",
+      "type": "income",
+      "createdAt": "2022-12-01T14:22:42.719Z",
+      "id": 5
+    },
+    {
+      "description": "cliente 4",
+      "category": "423123",
+      "price": 10000,
+      "observation": "5%, 60dd, 30/60",
+      "type": "income",
+      "createdAt": "2022-12-02T20:15:02.323Z",
+      "id": 6
+    },
+    {
+      "description": "cliente 5",
+      "category": "421233",
+      "price": 1500,
+      "observation": "6%, 30dd, fob",
+      "type": "income",
+      "createdAt": "2022-12-02T20:15:57.290Z",
+      "id": 7
+    },
+    {
+      "description": "cliente 6",
+      "price": 2100,
+      "category": "421214",
+      "type": "income",
+      "observation": "8%, a vista, cif",
+      "createdAt": "2022-12-02T20:37:32.018Z",
+      "id": 8
+    },
+    {
+      "description": "cliente 7",
+      "price": 1100,
+      "category": "421245",
+      "type": "income",
+      "observation": "5%, a vista, cif",
+      "createdAt": "2022-12-02T20:38:24.531Z",
+      "id": 9
+    },
+    {
+      "description": "cliente 8",
+      "price": 1800,
+      "category": "412347",
+      "type": "income",
+      "observation": "2%, 60dd, cif",
+      "createdAt": "2023-01-04T00:16:03.354Z",
+      "id": 10
+    },
+    {
+      "description": "cliente 9",
+      "price": 3000,
+      "category": "421236",
+      "type": "income",
+      "observation": "7%, 90dd, cif",
+      "createdAt": "2023-01-10T23:37:39.210Z",
+      "id": 11
+    }
+  ],
+  "signin": [
+    {
+      "id": 1,
+      "email": "aaa@gmail.com",
+      "password": "123456"
+    }
+  ]
+}

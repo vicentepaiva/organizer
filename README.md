@@ -13,3 +13,5 @@ This is a projecto to help people that work with sales, they can follow how the 
 . Phosphor React
 . Dialog
 
+#
+npm run dev

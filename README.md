@@ -4,7 +4,7 @@ This is a projecto to help people that work with sales, they can follow how the 
 
 
 # 
-. React
+. React </br>
 . Vite
 . Typescript
 . Styled Components

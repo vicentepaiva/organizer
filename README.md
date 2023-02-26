@@ -7,6 +7,7 @@ This is a project to help people that work with sales, they can follow how the r
 . React </br>
 . Vite </br>
 . Typescript </br>
+. React Router Dom </br>
 . Styled Components </br>
 . Zod </br>
 . axios </br>

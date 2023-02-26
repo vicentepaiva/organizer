@@ -14,5 +14,5 @@ This is a projecto to help people that work with sales, they can follow how the 
 . Dialog
 
 #
-. npm run dev;
-. npm run dev:server;
+. npm run dev
+. npm run dev:server

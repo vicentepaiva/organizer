@@ -5,14 +5,14 @@ This is a projecto to help people that work with sales, they can follow how the 
 
 # 
 . React </br>
-. Vite
-. Typescript
-. Styled Components
-. Zod
-. axios
-. Phosphor React
-. Dialog
+. Vite </br>
+. Typescript </br>
+. Styled Components </br>
+. Zod </br>
+. axios </br>
+. Phosphor React </br>
+. Dialog </br>
 
 #
-. npm run dev
-. npm run dev:server
+. npm run dev </br>
+. npm run dev:server </br>

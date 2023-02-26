@@ -1,6 +1,6 @@
 # organizer
 
-This is a projecto to help people that work with sales, they can follow how the result of your work per client, month and year. 
+This is a project to help people that work with sales, they can follow how the result of your work per client, month and year. 
 
 
 # 
